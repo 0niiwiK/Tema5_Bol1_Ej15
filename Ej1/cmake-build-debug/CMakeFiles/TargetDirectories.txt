@@ -1,0 +1,3 @@
+/Users/kiwiin0/My Drive/CLASE/PROGRAMACIÓN/TEMA 5/Bol1/cmake-build-debug/CMakeFiles/Bol1.dir
+/Users/kiwiin0/My Drive/CLASE/PROGRAMACIÓN/TEMA 5/Bol1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kiwiin0/My Drive/CLASE/PROGRAMACIÓN/TEMA 5/Bol1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
