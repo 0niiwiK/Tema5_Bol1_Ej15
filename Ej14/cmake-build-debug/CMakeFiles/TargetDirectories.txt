@@ -1,0 +1,3 @@
+/Users/cole/Desktop/DRIVE/CLASE/PROGRAMACIÓN/TEMA 5/Bol1/Ej14/cmake-build-debug/CMakeFiles/Ej14.dir
+/Users/cole/Desktop/DRIVE/CLASE/PROGRAMACIÓN/TEMA 5/Bol1/Ej14/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cole/Desktop/DRIVE/CLASE/PROGRAMACIÓN/TEMA 5/Bol1/Ej14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
